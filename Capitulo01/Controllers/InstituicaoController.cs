@@ -47,5 +47,11 @@ namespace Capitulo01.Controllers
         {
             return View(instituicoes);
         }
+
+        // GET: Create
+        public ActionResult Create()
+        {
+            return View();
+        }
     }
 }

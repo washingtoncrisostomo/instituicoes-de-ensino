@@ -111,3 +111,4 @@ C:\Users\washi\source\repos\Capitulo01\Capitulo01\bin\Debug\netcoreapp3.1\zh-Han
 C:\Users\washi\source\repos\Capitulo01\Capitulo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\washi\source\repos\Capitulo01\Capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Instituicao\Index.cshtml.g.cs
 C:\Users\washi\source\repos\Capitulo01\Capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Instituicao\Create.cshtml.g.cs
+C:\Users\washi\source\repos\Capitulo01\Capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Instituicao\Edit.cshtml.g.cs

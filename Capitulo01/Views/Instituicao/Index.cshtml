@@ -10,7 +10,7 @@
 </head>
 <body>
     <p>
-        <a asp-action="Create">Criar nova instituição</a>
+        <a type="button" class="btn btn-success" asp-action="Create">Criar nova instituição</a>
     </p>
     <table class="table">
         <thead>
@@ -41,9 +41,9 @@
                         @Html.DisplayFor(modelItem => item.Endereco)
                     </td>
                     <td>
-                        <a asp-action="Edit" asp-route-id="@item.InstituicaoID">Edit</a>|
-                        <a asp-action="Details" asp-route-id="@item.InstituicaoID">Details</a>|
-                        <a asp-action="Delete" asp-route-id="@item.InstituicaoID">Delete</a>|
+                        <a type="button" class="btn btn-warning" asp-action="Edit" asp-route-id="@item.InstituicaoID">Edit</a>
+                        <a type="button" class="btn btn-primary" asp-action="Details" asp-route-id="@item.InstituicaoID">Details</a>
+                        <a type="button" class="btn btn-danger" asp-action="Delete" asp-route-id="@item.InstituicaoID">Delete</a>
                     </td>
                 </tr>
             }

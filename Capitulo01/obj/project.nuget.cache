@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jV+As9JoZdyrXWidSBuQWbZiRms7NVsejTt7Me6tWJRn8VEfKWEeRmPxQJ2ZMu/256P7Fu1bePzLZjqaBWpRpg==",
+  "dgSpecHash": "vYOzIEziuW/BYor97ZTV5G2MjfxdWcIImZYLK6NnR1P4htfcbYz/dKMAwPqxxsb+h5Dlv5yWpj0kMwLSd0r+xg==",
   "success": true,
   "projectFilePath": "C:\\Users\\washi\\source\\repos\\Capitulo01\\Capitulo01\\Capitulo01.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\washi\\.nuget\\packages\\bootstrap\\5.1.2\\bootstrap.5.1.2.nupkg.sha512",
     "C:\\Users\\washi\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\washi\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\washi\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
